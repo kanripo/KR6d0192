@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:36.065031
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:50
 #+TITLE: 法華三昧行事運想補助儀
 #+PROPERTY: CBETA_ID T46n1942
 #+PROPERTY: ID KR6d0192
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1942
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0192_T_000-0955c>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0192_T_001-0955c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1942[cf.Nos.1941,1943,1944]¶
-
- 法華三昧行事運想補助儀¶
+No. 1942 [cf. Nos. 1941, 1943, 1944]¶
+法華三昧行事運想補助儀¶
 ¶
 唐國清沙門湛然撰¶
 
