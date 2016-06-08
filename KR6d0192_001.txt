@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:36.065031
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:51
 #+TITLE: 法華三昧行事運想補助儀
 #+PROPERTY: CBETA_ID T46n1942
 #+PROPERTY: ID KR6d0192
